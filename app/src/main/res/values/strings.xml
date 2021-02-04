@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">18FOTCA11001</string>
+    <string name="fname">Devang</string>
+    <string name="todo">TODO</string>
+    <string name="mname">Anilbhai</string>
+    <string name="lname">Amrutiya</string>
+    <string name="about_us">About Us</string>
+   <string name="email">damrutiya706@rku.ac.in</string>
+    <string name="password">123456</string>
+    <string name="Gender">Male</string>
+    <string name="city">Rajkot</string>
+    <string name="enrollment">18FOTCA11001</string>
+
+
+</resources>
